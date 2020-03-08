@@ -1,0 +1,20 @@
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AUTOKEY.exe.config
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AUTOKEY.exe
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Release\AUTOKEY.pdb
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AUTOKEY.Form1.resources
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AUTOKEY.Properties.Resources.resources
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\autokey.csproj.GenerateResource.Cache
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AUTOKEY.exe
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Release\AUTOKEY.pdb
+D:\workspace\tools\自动输入工具\WindowsFormsApplication1\bin\Release\AUTOKEY.exe.config
+D:\workspace\tools\自动输入工具\WindowsFormsApplication1\obj\Release\AUTOKEY.exe
+D:\workspace\tools\自动输入工具\WindowsFormsApplication1\obj\Release\AUTOKEY.pdb
+D:\workspace\tools\自动输入工具\AUTOKEY\bin\Release\AUTOKEY.exe.config
+D:\workspace\tools\自动输入工具\AUTOKEY\obj\Release\AUTOKEY.exe
+D:\workspace\tools\自动输入工具\AUTOKEY\obj\Release\AUTOKEY.pdb
+D:\workspace\tools\自动输入工具\AUTOKEY\bin\Release\AUTOKEY.exe
+D:\workspace\tools\自动输入工具\AUTOKEY\bin\Release\AUTOKEY.pdb
+D:\workspace\tools\自动输入工具\AUTOKEY\obj\Release\autokey.csprojResolveAssemblyReference.cache
+D:\workspace\tools\自动输入工具\AUTOKEY\obj\Release\AUTOKEY.Form1.resources
+D:\workspace\tools\自动输入工具\AUTOKEY\obj\Release\AUTOKEY.Properties.Resources.resources
+D:\workspace\tools\自动输入工具\AUTOKEY\obj\Release\autokey.csproj.GenerateResource.Cache

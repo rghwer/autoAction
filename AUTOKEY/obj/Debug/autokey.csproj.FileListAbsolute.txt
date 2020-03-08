@@ -1,0 +1,9 @@
+c:\users\zzfu\documents\visual studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\autokey.csproj.GenerateResource.Cache
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AUTOKEY.exe.config
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AUTOKEY.exe
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\AUTOKEY.pdb
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AUTOKEY.Form1.resources
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AUTOKEY.Properties.Resources.resources
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AUTOKEY.exe
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\AUTOKEY.pdb
+C:\Users\zzfu\Documents\Visual Studio 2013\Projects\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\autokey.csprojResolveAssemblyReference.cache
